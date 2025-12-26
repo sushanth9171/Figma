@@ -29,6 +29,7 @@ Publish the website in the given URL.
 Figma
 
 # CODE:Page 1:
+~~~
 index.html
 <!DOCTYPE html>
 <html>
@@ -456,6 +457,7 @@ style.css
   letter-spacing: 0;
   line-height: normal;
 }
+~~~
 # OUTPUT:<img width="646" height="426" alt="image" src="https://github.com/user-attachments/assets/88542148-6996-4abd-926a-e488d41dbf2e" />
 
 # RESULT:
